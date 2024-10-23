@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Extract IDs from URLs",
+  "version": "1.3",
+  "description": "Extract IDs from open tabs and display as CSV.",
+  "permissions": ["tabs", "downloads", "clipboardWrite"],
+  "host_permissions": ["<all_urls>"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
