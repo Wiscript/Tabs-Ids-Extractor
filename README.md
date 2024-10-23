@@ -1,6 +1,6 @@
 # Tabs ID Extractor
 
-**Tabs IDss Extractor** is a Chrome extension that allows users to extract IDs from open tabs, customize the extraction process using Regular Expressions, and copy or download the results in various formats. It supports light/dark themes and saves user preferences across sessions.
+**Tabs IDs Extractor** is a Chrome extension that allows users to extract IDs from open tabs, customize the extraction process using Regular Expressions, and copy or download the results in various formats. It supports light/dark themes and saves user preferences across sessions.
 
 ## Features
 
